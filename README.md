@@ -1,0 +1,2 @@
+# appDeb
+repository linux
